@@ -53,3 +53,16 @@
     color: tomato;
     border-radius: 10%;
 }
+
+.ves-dep {
+    display: flex;
+    width: half;
+    padding-left: 10%;
+
+}
+
+.dfg-ghj {
+    background-color: tomato;
+    border-radius: 5%;
+    text-decoration: none;
+}
