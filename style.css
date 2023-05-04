@@ -1,0 +1,55 @@
+.link-batton {
+    background-color: rgb(165, 42, 130);
+    border-radius: 5%;
+}
+
+.mid-sid {
+    text-align: center;
+    background-image: url(donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-position: center;
+
+}
+
+.don-day {
+    text-align: center;
+}
+
+.do-it {
+    text-align: center;
+}
+
+.Dun-kin {
+    display: flex;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    font-size: 8px;
+
+
+}
+
+#anik {
+    background-color: bisque;
+}
+
+#hridoy {
+    background-color: darkgray;
+}
+
+#ridoy {
+    background-color: blanchedalmond;
+
+}
+
+.don-pln {
+    text-align: center;
+}
+
+.fghj-jkl {
+    color: tomato;
+    border-radius: 10%;
+}
